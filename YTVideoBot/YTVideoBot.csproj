@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DotNetSeleniumExtras.WaitHelpers" Version="3.11.0" />
+    <PackageReference Include="OpenQA.Selenium.Chrome.ChromeDriverExtensions" Version="1.2.0" />
+    <PackageReference Include="Selenium.Support" Version="4.18.1" />
+    <PackageReference Include="Selenium.UndetectedChromeDriver" Version="1.1.3" />
+    <PackageReference Include="SeleniumStealth.NET" Version="1.0.0" />
+  </ItemGroup>
+
+</Project>
