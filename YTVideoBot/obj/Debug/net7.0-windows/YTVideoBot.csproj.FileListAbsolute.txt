@@ -26,3 +26,5 @@ C:\Users\mrevd\source\repos\YTVideoBot\YTVideoBot\obj\Debug\net7.0-windows\YTVid
 C:\Users\mrevd\source\repos\YTVideoBot\YTVideoBot\obj\Debug\net7.0-windows\ref\YTVideoBot.dll
 C:\Users\mrevd\source\repos\YTVideoBot\YTVideoBot\bin\Debug\net7.0-windows\UndetectedChromeDriver.dll
 C:\Users\mrevd\source\repos\YTVideoBot\YTVideoBot\bin\Debug\net7.0-windows\OpenQA.Selenium.Chrome.ChromeDriverExtensions.dll
+C:\Users\mrevd\source\repos\YTVideoBot\YTVideoBot\bin\Debug\net7.0-windows\YTVideoBot.dll.config
+C:\Users\mrevd\source\repos\YTVideoBot\YTVideoBot\obj\Debug\net7.0-windows\YTVideoBot.Properties.Resources.resources
